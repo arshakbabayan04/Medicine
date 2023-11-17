@@ -1,0 +1,13 @@
+.promo {
+  min-height: 100vh;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 100%;
+  width: 100%;
+}
